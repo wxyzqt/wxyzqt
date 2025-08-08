@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is wxyzqt ,you can call me wt,and I'm from China</p>
+<p align="left">My name is wxyzqt, you can call me wt, and I'm from China</p>
 
 ###
 
